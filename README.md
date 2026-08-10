@@ -4,6 +4,7 @@
 
 纯浏览器端运行，零后端依赖，单文件即开即用。
 https://mmisitan0925-afk.github.io/four-finger-frame/
+Cloudflare公网链接：https://manualtracking-misitan.pages.dev/
 ## 效果预览
 
 ![四指拉框演示](demo.gif)
